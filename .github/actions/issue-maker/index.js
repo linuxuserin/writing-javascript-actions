@@ -21,3 +21,5 @@ async function run() {
 }
 
 run();
+
+// fix: ##[error]github.GitHub is not a constructor
